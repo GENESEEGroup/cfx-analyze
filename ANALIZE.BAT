@@ -1,0 +1,1 @@
+node checkUnusedEvents.js "Directory where your RESOURCES folder is located"
